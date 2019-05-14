@@ -17,7 +17,7 @@ to modify the list of available operators, use the following approach:
 * [PivotGridField.FilterEditorTemplate](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridControl.FilterEditorTemplate) property
 * [FilterEditorControl](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.FilteringUI.FilterEditorControl) class
 * [QueryOperators](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.FilteringUI.FilterEditorControl.QueryOperators) event
-* [PivotGridControl.UseLegacyFilterEidtor](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridControl.UseLegacyFilterEidtor) property
+* [PivotGridControl.UseLegacyFilterEditor](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridControl.UseLegacyFilterEditor) property
 * [PivotGridControl.ShowOnlyAvailableFilterItems ](https://docs.devexpress.com/WPF/DevExpress.Xpf.PivotGrid.PivotGridControl.ShowOnlyAvailableFilterItem)
 * [FilterEditorOperatorItem](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.FilteringUI.FilterEditorOperatorItem) class
 * [FilterEditorOperatorType](https://docs.devexpress.com/WPF/DevExpress.Xpf.Core.FilteringUI.FilterEditorOperatorType) enumeration

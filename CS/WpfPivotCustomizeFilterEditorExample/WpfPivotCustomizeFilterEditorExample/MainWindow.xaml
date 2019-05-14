@@ -41,7 +41,7 @@
             FieldFilterPopupMode="Excel"
             Name="pivotGridControl1"
             ShowOnlyAvailableFilterItems="True"
-            UseLegacyFilterEidtor="False">
+            UseLegacyFilterEditor="False">
             <dxpg:PivotGridControl.FilterEditorTemplate>
                 <DataTemplate>
                     <dxfui:FilterEditorControl QueryOperators="FilterEditorControl_QueryOperators" />
