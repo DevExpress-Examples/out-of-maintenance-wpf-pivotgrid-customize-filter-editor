@@ -10,7 +10,12 @@ to modify the list of available operators, use the following approach:
 
 ![screenshot](./images/screenshot.png)
 
-> The project requires references to the DevExpress.Xpf.Core.Extensions, DevExpress.Xpf.Grid, DevExpress.Xpf.Grid.Core assemblies in addition to references created automatically when the PivotGrid control is dropped from VS Designer Toolbox.
+> The project uses the [ExcelDataSource](https://docs.devexpress.com/CoreLibraries/DevExpress.DataAccess.Excel.ExcelDataSource) component in the **ExcelItemsSource** wrapper. It requires references to the following assemblies in addition to references created automatically when the PivotGrid control is dropped from VS Designer Toolbox:
+> * DevExpress.DataAccess
+> * DevExpress.Xpf.Core.Extensions
+> * DevExpress.Xpf.Grid
+> * DevExpress.Xpf.Grid.Core
+
 
 **API in this example:**
 
